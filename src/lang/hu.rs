@@ -630,7 +630,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("enable-bot-desc", "1. Nyisson csevegést @BotFather.\n2. Küldje el a „/newbot” parancsot. Miután ezt a lépést elvégezte, kap egy tokent.\n3. Indítson csevegést az újonnan létrehozott botjával. Küldjön egy olyan üzenetet, amely egy perjelrel kezdődik („/”), pl. B. „/hello” az aktiváláshoz.\n"),
         ("cancel-2fa-confirm-tip", "Biztosan le akarja mondani a 2FA-t?"),
         ("cancel-bot-confirm-tip", "Biztosan le akarja mondani a Telegram botot?"),
-        ("About RustDesk", "RustDesk névjegye"),
+        ("About RedlkDesk", "RustDesk névjegye"),
         ("Send clipboard keystrokes", "Billentyűleütések küldése a vágólapra"),
         ("network_error_tip", "Ellenőrizze a hálózati kapcsolatot, majd próbálja meg újra."),
         ("Unlock with PIN", "Feloldás PIN-kóddal"),

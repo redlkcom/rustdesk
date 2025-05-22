@@ -630,7 +630,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("enable-bot-desc", "1. @BotFatherのチャットを開きます。\n2. 「/newbot」コマンドを送信します。送信後、トークンを取得できます。\n3. 新しく作成したbotとチャットを開始します。「/hello」のようにスラッシュで始まるメッセージを送信して起動します。\n"),
         ("cancel-2fa-confirm-tip", "本当に二要素認証をキャンセルしますか？"),
         ("cancel-bot-confirm-tip", "本当にTelegram Botをキャンセルしますか？"),
-        ("About RustDesk", "RustDeskについて"),
+        ("About RedlkDesk", "RustDeskについて"),
         ("Send clipboard keystrokes", "クリップボードの内容をキー入力として送信する"),
         ("network_error_tip", "ネットワーク接続を確認し、再度お試しください。"),
         ("Unlock with PIN", "PINでロック解除"),
